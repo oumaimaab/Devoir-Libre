@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1558803682 source:c:\users\dell\desktop\gi\cpp\devoirlibre\main.cpp
+	<iostream>
+	"evenement.h"
+	"timing.h"
+
+1558962504 source:c:\users\dell\desktop\gi\cpp\devoirlibre\timing.cpp
+	<iostream>
+	"timing.h"
+	<time.h>
+	<ctime>
+
+1558962010 c:\users\dell\desktop\gi\cpp\devoirlibre\timing.h
+
+1558793840 source:c:\users\dell\desktop\gi\cpp\devoirlibre\evenement.cpp
+	"evenement.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1558964602 c:\users\dell\desktop\gi\cpp\devoirlibre\evenement.h
+	<iostream>
+	<string>
+	"timing.h"
+	<fstream>
+
